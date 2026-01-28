@@ -1,0 +1,16 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning
+tensorflow==2.17.0
+
+# Evaluación y monitoreo
+#evidently==0.4.26
+
+# Utilidades
+#jupyter
+#ipykernel
