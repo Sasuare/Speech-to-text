@@ -14,3 +14,11 @@ tensorflow==2.17.0
 # Utilidades
 #jupyter
 #ipykernel
+
+#WHISPER OPEN AI
+openai-whisper
+torch
+torchvision
+torchaudio
+numpy
+tqdm
