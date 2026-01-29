@@ -48,6 +48,9 @@ data/output/
 .whisper/
 models/
 
+# FFmpeg
+ffmpeg-*
+
 # =========================
 # Notebooks (si luego usas)
 # =========================
